@@ -18,9 +18,9 @@
 
 🌐 Socials
 
-<a href="https://twitter.com/twt_ankuryadav"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" style="position: absolute;" /></a>
+<a href="https://instagram.com/ig_ankuryadav"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" style="position: absolute;" /></a>
 
-<a href="https://instagram.com/ig_ankuryadav"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge" style="position: absolute;" /></a>
+<a href="https://twitter.com/twt_ankuryadav"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge" style="position: absolute;" /></a>
 
 <a href="https://linkedin.com/in/ankuryadavsolan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" style="position: absolute;" /></a>
 
